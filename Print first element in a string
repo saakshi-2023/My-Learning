@@ -1,0 +1,4 @@
+#define string
+name = "Michael Jackson"
+#print first element
+print(name[0])

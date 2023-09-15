@@ -1,3 +1,0 @@
-#print the first element in the name of the string
-name = "Michael Jackson"
-print(name[0])
